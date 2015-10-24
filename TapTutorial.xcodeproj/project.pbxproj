@@ -13,6 +13,7 @@
 		647776241BDAED84002F6B5D /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 647776231BDAED84002F6B5D /* Images.xcassets */; };
 		647776271BDAED84002F6B5D /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 647776251BDAED84002F6B5D /* LaunchScreen.xib */; };
 		647776331BDAED84002F6B5D /* TapTutorialTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 647776321BDAED84002F6B5D /* TapTutorialTests.swift */; };
+		6477763D1BDC2C5E002F6B5D /* TapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6477763C1BDC2C5E002F6B5D /* TapView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		6477762C1BDAED84002F6B5D /* TapTutorialTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TapTutorialTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		647776311BDAED84002F6B5D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		647776321BDAED84002F6B5D /* TapTutorialTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TapTutorialTests.swift; sourceTree = "<group>"; };
+		6477763C1BDC2C5E002F6B5D /* TapView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TapView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 			children = (
 				6477761C1BDAED84002F6B5D /* AppDelegate.swift */,
 				6477761E1BDAED84002F6B5D /* ViewController.swift */,
+				6477763C1BDC2C5E002F6B5D /* TapView.swift */,
 				647776201BDAED84002F6B5D /* Main.storyboard */,
 				647776231BDAED84002F6B5D /* Images.xcassets */,
 				647776251BDAED84002F6B5D /* LaunchScreen.xib */,
@@ -214,6 +217,7 @@
 			files = (
 				6477761F1BDAED84002F6B5D /* ViewController.swift in Sources */,
 				6477761D1BDAED84002F6B5D /* AppDelegate.swift in Sources */,
+				6477763D1BDC2C5E002F6B5D /* TapView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
